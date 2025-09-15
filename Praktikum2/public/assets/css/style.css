@@ -1,0 +1,11 @@
+* {
+    font-family: "Urbanist", sans-serif;
+}
+
+table,
+th,
+tr,
+td {
+    padding: 16px;
+    border: solid 1px black;
+}
